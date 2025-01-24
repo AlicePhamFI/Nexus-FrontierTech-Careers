@@ -7,6 +7,18 @@ Career Opportunities @Nexus FrontierTech
   </a>
 </p>
 
+
+
+
+
+
+<p align="center">
+  <a href="https://nexusfrontier.tech">
+    <img src="logo.svg" alt="Nexus FrontierTech Logo" width="170" height="40" />
+  </a>
+</p>
+
+
 <p align="center">
   <a href="https://nexusfrontier.tech/wp-content/uploads/2022/08/Nexus-Corporate-Video-Aug-2022.mp4" type="video/mp4">
     🎥 Accelerating enterprise decision-making with artificial intelligence
