@@ -2,7 +2,7 @@
 Career Opportunities @Nexus FrontierTech 
 <p align="center">
   <a href="https://nexusfrontier.tech/">
-    <img alt="Nexus logo" src="https://nexusfrontier.tech/wp-content/uploads/2021/01/nexus-logo.png" width="200" />
+    <img alt="Nexus logo" src="//cdn.hu-manity.co/hu-banner.min.js" />
   </a>
 </p>
 
