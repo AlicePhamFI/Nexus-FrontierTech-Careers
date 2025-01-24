@@ -15,6 +15,6 @@ Career Opportunities @Nexus FrontierTech
 
 <p align="center">
   <a href="https://nexusfrontier.tech/wp-content/uploads/2022/01/Nexus_Data-Extraction-Video.mp4" type="video/mp4">
-    <img alt="Faster Data Extraction with Nexus FronterTech" src="https://nexusfrontier.tech/wp-content/uploads/2022/01/video-thumbnail-placeholder.png" width="420" />
+    🎥 Faster Data Extraction with Nexus FronterTech src="https://nexusfrontier.tech/wp-content/uploads/2022/01/video-thumbnail-placeholder.png" width="420" />
   </a>
 </p>
