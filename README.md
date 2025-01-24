@@ -11,3 +11,7 @@ Career Opportunities @Nexus FrontierTech
     🎥 Watch our corporate video
   </a>
 </p>
+
+<video id="video1" class="" width="420" loop muted>
+                        <source src="https://nexusfrontier.tech/wp-content/uploads/2022/01/Nexus_Data-Extraction-Video.mp4" type="video/mp4">
+                    </video>
