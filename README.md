@@ -21,7 +21,7 @@ Career Opportunities @Nexus FrontierTech
   </a>
 </p>
 
-
+JOIN NOW our casual monthly Meetup 🚀FrontierTech Connect🚀 AI Engineering Product and Data here:  https://www.meetup.com/frontiertech-connect-enigneer-product-ai-and-data/?eventOrigin=your_groups
 ---
 
 Nexus FrontierTech accelerates decision-making processes by enabling modular plug-and-play automation solutions on our proprietary AI engine. We bring visibility, traceability and usability to enterprise data in real-time, empowering the financial services industry to efficiently develop structured processes for compliance, risk management, and innovation purposes.
