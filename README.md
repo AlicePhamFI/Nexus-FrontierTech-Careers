@@ -87,7 +87,7 @@ By blending the best of in-person collaboration with effective communication too
 * AI/ ML
 
 
-If this inspires you and you are interested to join our team, check out what [our careers](https://nexusfrontier.tech/careers-2/)
-is like and review if you match one of our [openings](https://nexusfrontier.tech/careers-2/) ✌️
+If this inspires you and you are interested to join our team, check out what [our careers](https://revolutpeople.com/nexusfrontiertech/public/careers)
+is like and review if you match one of our [openings](https://revolutpeople.com/nexusfrontiertech/public/careers) ✌️
 
-If you just want to say "hi", drop an email to thu.pham@nexusfrontier.tech or via Zalo/WhatsApp: 0362166061 👋
+If you just want to say "hi", drop an email to Manager, Global Talent Acquistion UK|US|Japan|Singapore|Vietnam thu.pham@nexusfrontier.tech or via Zalo/WhatsApp: 0362166061 👋
